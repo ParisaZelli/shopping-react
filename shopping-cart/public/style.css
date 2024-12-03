@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Vazirmatn' ;
+    src: url('./fonts/Vazir.woff2');
+}
+
+.image{
+    width: auto;
+    height: auto;
+    background-color: #FFF;
+}
